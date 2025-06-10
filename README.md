@@ -1,4 +1,4 @@
-# Hi, I'm Sean! 👋
+# Witaj! 👋
 
 I am a software developer by trade, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
