@@ -16,7 +16,7 @@ I am a software developer by trade, driven by a curiosity for technology and a l
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,linux,windows,emacs,visualstudio&perline=3)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
